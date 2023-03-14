@@ -1,0 +1,9 @@
+.menu {
+    height: 200px; /* Set the height of the container */
+    overflow: auto; /* Set overflow to scroll */
+  }
+  
+  .menu-item {
+    padding: 10px;
+  }
+  
