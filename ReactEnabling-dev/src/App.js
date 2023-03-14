@@ -5,6 +5,7 @@ import Card from './products.js';
 
 function App() {
   return (
+    
     <section>
       <Navbar/> 
       <Card/>
